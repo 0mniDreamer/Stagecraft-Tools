@@ -1,0 +1,16 @@
+{
+    "name": "Stagecraft.Editor",
+    "rootNamespace": "CustomStage.Stagecraft",
+    "references": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
